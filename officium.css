@@ -1,0 +1,402 @@
+/*--the header section--*/
+
+
+.nav {
+  color: white;
+  height: 60px;
+  width: auto;
+  background-color: blue;
+}
+
+.navbar-inverse .navbar-toggle, .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{
+    background-color: #FFF !important;
+    size: 5px;
+}
+.nav-item2{
+  color: white;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 10px 50px;
+  text-decoration: underline;
+  width: auto;
+}
+
+.img-fluid {
+  width: 350px;
+  height: 200px;
+  max-width: 100%!important;
+  max-height: 100%!important;
+}
+
+
+.nav-link2 {
+  color: white;
+}
+
+.nav-item2:hover {
+  background-color: #00AFC1;
+}
+
+
+.middle-between {
+  position: relative;
+  width: auto;
+  bottom: 200px;
+  backdrop-filter: blur(2px);
+  text-align: center;
+
+}
+.f{
+  display: flex;
+}
+.text-left .text-center .text-right {
+  font-size: 50px;
+}
+
+.middle-between-writing2 {
+  font-size: 50px;
+  position: relative;
+  right: 90PX;
+}
+
+#image1 {
+  height: 100%;
+  width:100%;
+  max-width: 100%!important;
+  max-height: 100%!important;
+}
+
+.text-nowrap{
+  font-size: 3rem;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+.img-fluid-op {
+
+
+  max-width: 100%!important;
+  max-height: 100%!important;
+  width: 40%!important;
+  height:40%!important;
+
+}
+
+
+/*--the middle section--*/
+.container-fluid {
+  padding: 30px 200px;
+}
+.row{
+  margin-right: auto;
+}
+
+/*--the first content section--*/
+#container-fluid-categories {
+  background-color: #00AFC1;
+  font-size: 25px;
+  margin-left: 40px;
+  margin-right: 500px;
+  padding-left: 10px;
+}
+
+.table-light {
+  table-layout: auto;
+  border: none;
+  padding-bottom: 60px;
+  padding-left: 30px;
+  margin-right: 300px;
+}
+
+.img123 {
+  height: 86px;
+  width: 120px;
+}
+.col-md-6{
+  font-size: 1.6rem;
+  padding: 30px 60px;
+}
+
+.first {
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.d {
+  margin-left: 50px;
+}
+
+.court {
+  width: 100px;
+  height: 60px;
+}
+
+.second {
+  margin-right: 300px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+#space {
+  left: auto;
+}
+
+.third {
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.aasc {
+  width: 120px;
+  height: 80px;
+}
+
+.PO {
+  width: 120px;
+  height: 80px;
+}
+
+.img-fluid-po{
+  width: 350px!important;
+  height: 600px!important;
+  max-width: 100%!important;
+  max-height: 100%!important;
+}
+.fourth {
+  padding-right: 300px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+/*--the load more button section--*/
+.more-btn {
+  color: darkred;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+/*--the second content section--*/
+#jobs {
+  font-size: 25px;
+  text-decoration: underline;
+  color: black;
+}
+
+.job-bar {
+  background-color: #00AFC1;
+  margin-left: 40px;
+  margin-right: 450px;
+  padding-left: 10px;
+  color: black;
+  text-decoration: underline;
+}
+
+.img-first {
+  margin-right: 10px;
+  margin-left: 15px;
+  width: 120px;
+  height: 50px;
+}
+
+.img-first1 {
+  margin-left: 15px;
+  padding-top: auto;
+  width: 120px;
+  height: 70px;
+
+}
+
+.Table-first {
+  margin-right: 15px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.table-second {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 50px;
+}
+
+.img-first1 {
+  margin: 0 10px 0 10px;
+}
+
+.table-fourth {
+  padding-right: 50px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.table-second-2 {
+  margin-right: 400px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.table-fourth-2 {
+  padding-right: 400px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+/*--latest news button--*/
+.container-fluid-intro {
+  width: auto;
+  right: 100px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px
+
+}
+
+.description {
+  padding-top: 50px;
+}
+
+/*-------the upsc page-------*/
+.t-spacing {
+  line-height: 2.5;
+  padding: 5px;
+}
+
+#container-heading {
+  font-size: 4rem;
+  padding: 30px 50px;
+
+}
+.img-fluid-upsc{
+     width: auto!important;
+     height: auto!important;
+     max-width: 100%!important;
+     max-height: 100%!important;
+}
+span {
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+.header3 {
+  font-size: 2rem;
+}
+
+.details {
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+/*------the AASC page------*/
+.container-fluid {
+  margin-left: 20px;
+}
+
+.container-intro{
+  width: 1500px;
+  right: 100px;
+  padding-left: 70px;
+  padding-right: 300px;
+}
+
+
+
+.img-fluid-aasc2 {
+  width: auto;
+  height: auto;
+  max-width: 100%!important;
+  max-height: 100%!important;
+  padding: 50px;
+}
+
+h4 {
+  font-size: 1.3rem;
+  display: inline;
+}
+
+.details2 {
+  font-size: 1.2rem;
+}
+
+#age {
+  line-height: 30px;
+}
+
+.table-aasc {
+  border: 2px solid black;
+  padding: 20px;
+  text-align: center;
+}
+
+.heading {
+  font-size: 1.5rem;
+}
+
+/*------the upse syllabus-------*/
+.syllabus {
+  margin: 10px 0 auto 0;
+  padding: 10px;
+  text-decoration: underline;
+}
+
+.fooder-sec {
+  height: 300px;
+  width: 500px;
+  padding: 60px;
+  background-color: black;
+}
+
+.Court {
+  width: 120px;
+  height: 86px;
+}
+
+/*--supreme court--*/
+.sp {
+  color: red;
+}
+
+.sp1 {
+  font-size: 26px;
+}
+
+/*--wipro--*/
+#width {
+  width: auto;
+}
+
+.img-first1 {
+  display: inline-block;
+  width: 150px;
+  height: 120px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+}
+.img-fluid-coming-soon{
+  width: auto;
+  height: auto;
+  max-width: 100%!important;
+  max-height: 100%!important;
+}
+
+/*--navigaton--*/
+.navbar-sec{
+  padding-top: 60px;
+}
+.nav-item {
+  color: white;
+  font-size: 1.6rem;
+  padding-bottom: 80px;
+  padding-top: 50px;
+  padding-left: auto;
+  width: 100 %;
+  font-weight: bold;
+}
+
+.navbar-media {
+  background-color: white;
+}
